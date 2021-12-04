@@ -1,0 +1,73 @@
+a{
+    padding: 0px 10px;
+    text-decoration: none;
+    color: gray;
+    font-family: sans-serif;
+}
+a:hover{
+  color: grey;
+}
+.container{
+    margin-bottom: 80px;
+}
+.talika{
+  margin-top: 20px;
+}
+.col-md-5{
+  padding-left: 40px;
+}
+.button{
+  color: white;
+  background-color: black;
+  padding: 6px 15px;
+  border-radius: 10px;
+}
+.name{
+  font-weight: 700;
+}
+.grey{
+  color: grey;
+}
+.black-price{
+  font-weight: 700;
+}
+.align{
+  text-align: center;
+}
+.card{
+  border: none;
+  padding: 0px 40px;
+}
+.distance{
+  margin-bottom: 30px;
+}
+.bold{
+  font-weight: 700;
+}
+.web-bottom{
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 70px;
+}
+.move-left{
+  padding:20px 30px;
+  font-weight: 600;
+}
+.start{
+  margin-bottom: 30px;
+}
+.end{
+  margin-top:50px ;
+}
+#laptop{
+  margin-bottom: 100px;
+}
+.orange{
+  color: orange;
+  font-weight: 600;
+}
+footer p{
+  text-align: center;
+  font-size: small;
+  color: gray;
+}
