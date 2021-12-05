@@ -1,12 +1,4 @@
-a{
-    padding: 0px 10px;
-    text-decoration: none;
-    color: gray;
-    font-family: sans-serif;
-}
-a:hover{
-  color: grey;
-}
+
 .container{
     margin-bottom: 80px;
 }
